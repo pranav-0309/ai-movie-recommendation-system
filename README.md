@@ -14,10 +14,10 @@ This project leverages a 1M+ movie dataset from The Movie Database (TMDB) taken 
 
 - LLM Integration:
   - Integrated Groq's API using the Llama3 70B model to generate personalized movie recommendations based on user-selected filters such as:
-   - Genre
-   - Original Language
-   - Release Year
-   - Adult Content Prefernece
+    - Genre
+    - Original Language
+    - Release Year
+    - Adult Content Prefernece
 
 - Tech Stack:
   - Python: Programming Language
