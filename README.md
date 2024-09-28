@@ -13,17 +13,17 @@ This project leverages a 1M+ movie dataset from The Movie Database (TMDB) taken 
 - Cleaned and Preprocessed Dataset: Worked with a Kaggle dataset consisting of over 1 million movie entries, cleaning and preprocessing the data to make it ready for querying
 
 - LLM Integration:
-- - Integrated Groq's API using the Llama3 70B model to generate personalized movie recommendations based on user-selected filters such as:
-- - - Genre
-- - - Original Language
-- - - Release Year
-- - - Adult Content Prefernece
+  - Integrated Groq's API using the Llama3 70B model to generate personalized movie recommendations based on user-selected filters such as:
+   - Genre
+   - Original Language
+   - Release Year
+   - Adult Content Prefernece
 
 - Tech Stack:
-- - Python: Programming Language
-- - Pandas: For Data Manipulation 
-- - LangChain: For AI Agent and LLM Integration
-- - Streamlit: Used to create User-Friendly UI
+  - Python: Programming Language
+  - Pandas: For Data Manipulation 
+  - LangChain: For AI Agent and LLM Integration
+  - Streamlit: Used to create User-Friendly UI
 
 - UI: The Streamlit-based interface allows users to filter movies with ease and retrieve up to 5 personalized recommendations, including movie titles and their corresponding posters
 
